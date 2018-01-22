@@ -331,12 +331,12 @@
 				top: -0.2em;
 			}
 
-			&.fa-twitter {
-				background: _palette(twitter, bg);
-				color: _palette(twitter, fg);
+			&.fa-linkedin {
+				background: _palette(linkedin, bg);
+				color: _palette(linkedin, fg);
 
 				&:hover {
-					background: lighten(_palette(twitter, bg), 4);
+					background: lighten(_palette(linkedin, bg), 4);
 				}
 			}
 
